@@ -1,3 +1,4 @@
 # LGM-Web-Development-intern
 
-Link for task-1 :-  lgmviptask1.netlify.app
+Link for task-1 :- 
+https://lgmviptask1.netlify.app/
